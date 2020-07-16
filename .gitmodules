@@ -1,0 +1,18 @@
+[submodule "c"]
+	path = c
+	url = https://github.com/dogmatists/dogma.c.git
+[submodule "cpp"]
+	path = cpp
+	url = https://github.com/dogmatists/dogma.cpp.git
+[submodule "dart"]
+	path = dart
+	url = https://github.com/dogmatists/dogma.dart.git
+[submodule "python"]
+	path = python
+	url = https://github.com/dogmatists/dogma.py.git
+[submodule "ruby"]
+	path = ruby
+	url = https://github.com/dogmatists/dogma.rb.git
+[submodule "zig"]
+	path = zig
+	url = https://github.com/dogmatists/dogma.zig.git
