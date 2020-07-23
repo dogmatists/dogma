@@ -4,15 +4,15 @@
 
 ## Languages
 
-Language        | Continuous Integration
-:-------------- | :-------------------------------------------------------------
-[C][]           | [![CI](https://github.com/dogmatists/dogma.c/workflows/Continuous%20integration/badge.svg)](https://github.com/dogmatists/dogma.c/actions?query=workflow%3A%22Continuous+integration%22)
-[C++][]         | [![CI](https://github.com/dogmatists/dogma.cpp/workflows/Continuous%20integration/badge.svg)](https://github.com/dogmatists/dogma.cpp/actions?query=workflow%3A%22Continuous+integration%22)
-[Dart][]        | [![CI](https://github.com/dogmatists/dogma.dart/workflows/Continuous%20integration/badge.svg)](https://github.com/dogmatists/dogma.dart/actions?query=workflow%3A%22Continuous+integration%22)
-[Protobuf][]    | [![CI](https://github.com/dogmatists/dogma.pb/workflows/Continuous%20integration/badge.svg)](https://github.com/dogmatists/dogma.pb/actions?query=workflow%3A%22Continuous+integration%22)
-[Python][]      | [![CI](https://github.com/dogmatists/dogma.py/workflows/Continuous%20integration/badge.svg)](https://github.com/dogmatists/dogma.py/actions?query=workflow%3A%22Continuous+integration%22)
-[Ruby][]        | [![CI](https://github.com/dogmatists/dogma.rb/workflows/Continuous%20integration/badge.svg)](https://github.com/dogmatists/dogma.rb/actions?query=workflow%3A%22Continuous+integration%22)
-[Zig][]         | [![CI](https://github.com/dogmatists/dogma.zig/workflows/Continuous%20integration/badge.svg)](https://github.com/dogmatists/dogma.zig/actions?query=workflow%3A%22Continuous+integration%22)
+Language        | Linter | Continuous Integration
+:-------------- | :----- | :----------------------------------------------------
+[C][]           | [![Linter](https://github.com/dogmatists/dogma.c/workflows/Linter/badge.svg)](https://github.com/dogmatists/dogma.c/actions?query=workflow%3ALinter) | [![CI](https://github.com/dogmatists/dogma.c/workflows/Continuous%20integration/badge.svg)](https://github.com/dogmatists/dogma.c/actions?query=workflow%3A%22Continuous+integration%22)
+[C++][]         | [![Linter](https://github.com/dogmatists/dogma.cpp/workflows/Linter/badge.svg)](https://github.com/dogmatists/dogma.cpp/actions?query=workflow%3ALinter) | [![CI](https://github.com/dogmatists/dogma.cpp/workflows/Continuous%20integration/badge.svg)](https://github.com/dogmatists/dogma.cpp/actions?query=workflow%3A%22Continuous+integration%22)
+[Dart][]        | [![Linter](https://github.com/dogmatists/dogma.dart/workflows/Linter/badge.svg)](https://github.com/dogmatists/dogma.dart/actions?query=workflow%3ALinter) | [![CI](https://github.com/dogmatists/dogma.dart/workflows/Continuous%20integration/badge.svg)](https://github.com/dogmatists/dogma.dart/actions?query=workflow%3A%22Continuous+integration%22)
+[Protobuf][]    | [![Linter](https://github.com/dogmatists/dogma.pb/workflows/Linter/badge.svg)](https://github.com/dogmatists/dogma.pb/actions?query=workflow%3ALinter) | [![CI](https://github.com/dogmatists/dogma.pb/workflows/Continuous%20integration/badge.svg)](https://github.com/dogmatists/dogma.pb/actions?query=workflow%3A%22Continuous+integration%22)
+[Python][]      | [![Linter](https://github.com/dogmatists/dogma.py/workflows/Linter/badge.svg)](https://github.com/dogmatists/dogma.py/actions?query=workflow%3ALinter) | [![CI](https://github.com/dogmatists/dogma.py/workflows/Continuous%20integration/badge.svg)](https://github.com/dogmatists/dogma.py/actions?query=workflow%3A%22Continuous+integration%22)
+[Ruby][]        | [![Linter](https://github.com/dogmatists/dogma.rb/workflows/Linter/badge.svg)](https://github.com/dogmatists/dogma.rb/actions?query=workflow%3ALinter) | [![CI](https://github.com/dogmatists/dogma.rb/workflows/Continuous%20integration/badge.svg)](https://github.com/dogmatists/dogma.rb/actions?query=workflow%3A%22Continuous+integration%22)
+[Zig][]         | [![Linter](https://github.com/dogmatists/dogma.zig/workflows/Linter/badge.svg)](https://github.com/dogmatists/dogma.zig/actions?query=workflow%3ALinter) | [![CI](https://github.com/dogmatists/dogma.zig/workflows/Continuous%20integration/badge.svg)](https://github.com/dogmatists/dogma.zig/actions?query=workflow%3A%22Continuous+integration%22)
 
 [C]:        https://github.com/dogmatists/dogma.c
 [C++]:      https://github.com/dogmatists/dogma.cpp
