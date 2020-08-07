@@ -7,6 +7,9 @@
 [submodule "dart"]
 	path = dart
 	url = https://github.com/dogmatists/dogma.dart.git
+[submodule "java"]
+	path = java
+	url = https://github.com/dogmatists/dogma.java.git
 [submodule "go"]
 	path = go
 	url = https://github.com/dogmatists/dogma.go.git
