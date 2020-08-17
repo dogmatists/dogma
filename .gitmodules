@@ -10,6 +10,9 @@
 [submodule "java"]
 	path = java
 	url = https://github.com/dogmatists/dogma.java.git
+[submodule "js"]
+	path = js
+	url = https://github.com/dogmatists/dogma.js.git
 [submodule "go"]
 	path = go
 	url = https://github.com/dogmatists/dogma.go.git
